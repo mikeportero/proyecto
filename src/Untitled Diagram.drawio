@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T22:17:10.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="jXmbWHV5bkYmt2jITvmI" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T22:20:21.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Rb__OGmjP4Wb1Vi1-wuO" version="13.7.1" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="3137.5" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2791.5" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -78,7 +78,7 @@
         <mxCell id="6a7d8f32e03d9370-61" value="&amp;nbsp; &lt;b&gt;PARS Web Service&amp;nbsp;App&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;verticalAlign=top;align=left;opacity=50;fillColor=#FFB570;" parent="1" vertex="1">
           <mxGeometry x="527.5" y="360" width="493" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-62" value="PARS Diagrama de Arquitectura" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NW1HPPaaWauUturvedQY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="NW1HPPaaWauUturvedQY-1" target="NW1HPPaaWauUturvedQY-2">
