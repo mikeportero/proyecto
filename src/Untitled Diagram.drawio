@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T19:48:51.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="C3kZ2c1X3AOgmRQDkYNy" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T19:59:59.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="sW0byryKkPgY9F9z4KQe" version="13.7.1" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="3829.5" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -16,6 +16,25 @@
         <mxCell id="NW1HPPaaWauUturvedQY-33" value="TCP/IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="NW1HPPaaWauUturvedQY-29">
           <mxGeometry x="0.2077" y="-31" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;rounded=0;" edge="1" parent="1" source="6a7d8f32e03d9370-61" target="NW1HPPaaWauUturvedQY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-46" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=20;rounded=0;" edge="1" parent="1" source="6a7d8f32e03d9370-61" target="NW1HPPaaWauUturvedQY-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="560" />
+              <mxPoint x="280" y="865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=20;" edge="1" parent="1" source="6a7d8f32e03d9370-61" target="NW1HPPaaWauUturvedQY-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="600" />
+              <mxPoint x="370" y="1020" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-61" value="&amp;nbsp; &lt;b&gt;PARS Web Service&amp;nbsp;App&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=18;strokeColor=none;verticalAlign=top;align=left;opacity=50;" parent="1" vertex="1">
@@ -44,10 +63,10 @@
         <mxCell id="NW1HPPaaWauUturvedQY-6" value="&lt;b&gt;&amp;nbsp; Azcapotzalco&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=23;verticalAlign=top;strokeColor=#82b366;fillColor=none;strokeWidth=9;align=left;" vertex="1" parent="1">
           <mxGeometry x="1120" y="320" width="722" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="NW1HPPaaWauUturvedQY-7" value="PMXNT20124MXA&lt;br&gt;148.250.250.181" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NW1HPPaaWauUturvedQY-7" value="PMXNT20124MXA&lt;br style=&quot;font-size: 20px;&quot;&gt;148.250.250.181" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="620" y="470" width="76.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NW1HPPaaWauUturvedQY-8" value="PMXNT20124MXB&lt;br&gt;148.250.250.182" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NW1HPPaaWauUturvedQY-8" value="PMXNT20124MXB&lt;br style=&quot;font-size: 20px;&quot;&gt;148.250.250.182" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="869.5" y="470" width="76.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NW1HPPaaWauUturvedQY-9" value="Web Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
@@ -102,6 +121,40 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=20;" edge="1" parent="1" source="NW1HPPaaWauUturvedQY-16" target="NW1HPPaaWauUturvedQY-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1440" />
+              <mxPoint x="260" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=20;" edge="1" parent="1" source="NW1HPPaaWauUturvedQY-16" target="NW1HPPaaWauUturvedQY-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1475" />
+              <mxPoint x="220" y="1225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-51" value="SSH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="NW1HPPaaWauUturvedQY-49">
+          <mxGeometry x="-0.3711" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=20;" edge="1" parent="1" source="NW1HPPaaWauUturvedQY-16" target="NW1HPPaaWauUturvedQY-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1510" />
+              <mxPoint x="160" y="1423" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-52" value="TCP/IP&lt;br&gt;port: 62003" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="NW1HPPaaWauUturvedQY-50">
+          <mxGeometry x="-0.3227" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NW1HPPaaWauUturvedQY-16" value="&lt;b&gt;SSIS&lt;br&gt;PMXNT51002MX&lt;br&gt;148.250.26.198&lt;/b&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#97D077;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="1430" width="80" height="90" as="geometry" />
         </mxCell>
@@ -118,6 +171,9 @@
         </mxCell>
         <mxCell id="NW1HPPaaWauUturvedQY-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Other Sytems&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;verticalAlign=top;align=center;opacity=50;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1310" width="260" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;fontSize=20;" edge="1" parent="1" source="NW1HPPaaWauUturvedQY-25" target="NW1HPPaaWauUturvedQY-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NW1HPPaaWauUturvedQY-25" value="DB2&lt;br&gt;FlexPromo" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;fillColor=#97D077;gradientColor=none;fontSize=20;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="1427" y="1390" width="65" height="85" as="geometry" />
@@ -146,6 +202,21 @@
         </mxCell>
         <mxCell id="NW1HPPaaWauUturvedQY-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Other Sytems&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;verticalAlign=top;align=center;opacity=50;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="-190" y="550" width="260" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-38" value="Catalogos WM&lt;br&gt;148.250.26.210" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;fillColor=#97D077;gradientColor=none;fontSize=20;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="1380" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-39" value="SCU&lt;br style=&quot;font-size: 20px;&quot;&gt;148.250.250.66" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-98.25" y="630" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-40" value="MTrack" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-98.25" y="820" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-41" value="Factura&lt;br style=&quot;font-size: 20px;&quot;&gt;Electrónica&lt;br style=&quot;font-size: 20px;&quot;&gt;148.250.191.162" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="980" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NW1HPPaaWauUturvedQY-42" value="APC&lt;br style=&quot;font-size: 20px;&quot;&gt;Avaya&lt;br style=&quot;font-size: 20px;&quot;&gt;148.250.37.33" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-98.25" y="1180" width="76.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
